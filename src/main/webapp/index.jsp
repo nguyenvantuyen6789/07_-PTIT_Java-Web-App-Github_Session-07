@@ -5,6 +5,6 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-    <h4>Trang chủ</h4>
+    <h4>Trang chủ </h4>
 </body>
 </html>
